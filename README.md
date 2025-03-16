@@ -1,4 +1,10 @@
 # Análise de Dados em Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-FF7F0E?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Data_Visualization-FF9A8B?style=flat-square&logo=python&logoColor=white)
 
 Este repositório contém projetos de análise de dados desenvolvidos em Python, utilizando bibliotecas como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**. O objetivo é explorar e visualizar conjuntos de dados para extrair insights e auxiliar na tomada de decisões baseadas em dados.
 
